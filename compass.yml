@@ -3,6 +3,7 @@ id: ari:cloud:compass:575ee10b-463c-48a6-b2de-c7c562e82154:component/59e82d4b-f1
 description: My simple web app for testing
 configVersion: 1
 typeId: SERVICE
+ownerId: 'ari:cloud:identity::team/5d48af56-d4c0-45d1-87ce-09629974b92e'
 fields:
   tier: 4
 links:
